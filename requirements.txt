@@ -1,0 +1,12 @@
+
+azure-functions==1.17.0 
+azure-storage-blob==12.0.0 
+azure-storage-common==1.4.2 
+azure-storage-queue==12.7.2 
+beautifulsoup4==4.12.2 
+bs4==0.0.1 
+selenium
+webdriver-manager==4.0.0
+pyodbc==4.0.39
+# urllib3==1.26.16
+urllib3
