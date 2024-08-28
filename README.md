@@ -29,7 +29,7 @@ The solution integrates OpenAI's ChatGPT-4 with Azure AI Search to automate prop
 - **Data Engineering & Data Integrations**
 
 ## Data Sources
-- **PDF, Excel, Word Files**
+- **Files:** PDF, Excel, Word Files**
 - **PDF Invoices:** Extraction of specific data
 - **API Endpoints:** Integration to fetch data
 - **Data Scraping:** Multiple sources (3-4)
@@ -50,3 +50,16 @@ Automating the manual process of writing proposals for Requests for Proposals (R
 - **Question and Answer capability** on trained medical data using OpenAI.
 - High-quality, consistent submissions leveraging past data.
 - Positioned **Sterling Medical Corp** as an industry leader in efficiency and technology.
+
+
+## Some Screenshots
+- **PDF Data Chat**
+<img width="1424" alt="smc-pdf-data-extractor" src="https://github.com/user-attachments/assets/29f08421-978a-4f12-a7f6-b30a0e7670e0">
+ 
+
+- **AI Auto Writer**
+<img width="1416" alt="smc-ai-proposal-writer" src="https://github.com/user-attachments/assets/5ba23f4e-864c-449c-be5b-ac7fd7a38418">
+
+
+- **Medical Scraping Data AI**
+<img width="1424" alt="smc-data-scraping-openai" src="https://github.com/user-attachments/assets/73b0fac8-76bf-4220-9fb0-27406d5f3f91">
