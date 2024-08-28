@@ -3,11 +3,20 @@
 ## Industry
 **Medical & Legal**
 
+
+## Project Overview
+This project involved automating the proposal writing process for Sterling Medical Corp by leveraging advanced AI models like ChatGPT-4 and Azure AI Search. The solution significantly improved the efficiency, quality, and consistency of proposals, positioning the client as a leader in technological innovation within the medical and legal industries.
+
+
 ## Flow Diagram
 ![Sterling Medical 1 (1)](https://github.com/user-attachments/assets/ed90449b-5f90-4eef-9948-1c9c40585e64)
 
 
+
 ## High-Level Architecture
+The solution integrates OpenAI's ChatGPT-4 with Azure AI Search to automate proposal generation. Data is sourced from PDFs, Excel, Word files, and API endpoints, processed through AI models and SQL Server for seamless data integration, with PowerApps providing an intuitive interface for end-users.
+
+
 <img width="1282" alt="SMC-RW-AI" src="https://github.com/user-attachments/assets/226d2928-3b6d-449a-bcff-c9f8ea766c20">
 
 
