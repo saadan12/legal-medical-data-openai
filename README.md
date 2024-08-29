@@ -6,6 +6,8 @@
 
 ## Project Overview
 This project involved automating the proposal writing process for Sterling Medical Corp by leveraging advanced AI models like ChatGPT-4 and Azure AI Search. The solution significantly improved the efficiency, quality, and consistency of proposals, positioning the client as a leader in technological innovation within the medical and legal industries.
+### Loom Video: https://www.loom.com/share/226b31e8cf7e4e909c8956f072c0b87b
+
 
 
 ## Flow Diagram
