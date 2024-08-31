@@ -1,17 +1,20 @@
 # SMC RW AI
 
 ## Industry
-**Medical & Legal**
+*Medical & Legal*
 
 
 ## Project Overview
 This project involved automating the proposal writing process for Sterling Medical Corp by leveraging advanced AI models like ChatGPT-4 and Azure AI Search. The solution significantly improved the efficiency, quality, and consistency of proposals, positioning the client as a leader in technological innovation within the medical and legal industries.
-### Loom Video: https://www.loom.com/share/226b31e8cf7e4e909c8956f072c0b87b
 
 
+## Media & Links:
 
-## Flow Diagram
-![Sterling Medical 1 (1)](https://github.com/user-attachments/assets/ed90449b-5f90-4eef-9948-1c9c40585e64)
+*Loom Video:* https://www.loom.com/share/226b31e8cf7e4e909c8956f072c0b87b
+
+*Overview Image:*
+
+<img width="500" alt="Sterling Medical 1 (1)" src="https://github.com/user-attachments/assets/ed90449b-5f90-4eef-9948-1c9c40585e64">
 
 
 
