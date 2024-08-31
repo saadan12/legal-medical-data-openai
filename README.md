@@ -34,7 +34,7 @@ The solution integrates OpenAI's ChatGPT-4 with Azure AI Search to automate prop
 - **Data Engineering & Data Integrations**
 
 ## Data Sources
-- **Files:** PDF, Excel, Word Files**
+- **Files:** PDF, Excel, Word Files
 - **PDF Invoices:** Extraction of specific data
 - **API Endpoints:** Integration to fetch data
 - **Data Scraping:** Multiple sources (3-4)
@@ -50,10 +50,10 @@ Automating the manual process of writing proposals for Requests for Proposals (R
 - Enhanced proposal quality, speed, and consistency by leveraging AI and historical data.
 
 ### Key Features
-- **Automated proposal generation** tailored to specific RFP requirements.
-- **Question and Answer capability** on trained medical data using OpenAI.
+- *Automated proposal generation* tailored to specific RFP requirements.
+- *Question and Answer capability* on trained medical data using OpenAI.
 - High-quality, consistent submissions leveraging past data.
-- Positioned **Sterling Medical Corp** as an industry leader in efficiency and technology.
+- Positioned *Sterling Medical Corp* as an industry leader in efficiency and technology.
 
 
 ## Some Screenshots
