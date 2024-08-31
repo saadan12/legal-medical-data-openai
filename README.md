@@ -40,7 +40,6 @@ The solution integrates OpenAI's ChatGPT-4 with Azure AI Search to automate prop
 - **Data Scraping:** Multiple sources (3-4)
 
 ## Project Overview
-**Client:** Sterling Medical Corp
 
 ### Challenge
 Automating the manual process of writing proposals for Requests for Proposals (RFPs).
