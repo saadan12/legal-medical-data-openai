@@ -1,5 +1,5 @@
 # SMC RW AI
-We developed an AI-powered solution to automate proposal writing, using advanced models like ChatGPT-4 and Azure AI Search. This enhanced efficiency, quality, and consistency, showcasing the client as a tech leader in their industry.
+SMC-RW-AI is an AI-powered solution to automate proposal writing, using advanced models like ChatGPT-4 and Azure AI Search. This enhanced efficiency, quality, and consistency, showcasing the client as a tech leader in their industry.
 
 ## Industry
 *Medical & Legal*
