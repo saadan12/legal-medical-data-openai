@@ -1,11 +1,8 @@
 # SMC RW AI
+We developed an AI-powered solution to automate proposal writing, using advanced models like ChatGPT-4 and Azure AI Search. This enhanced efficiency, quality, and consistency, showcasing the client as a tech leader in their industry.
 
 ## Industry
 *Medical & Legal*
-
-
-## Project Overview
-This project involved automating the proposal writing process for Sterling Medical Corp by leveraging advanced AI models like ChatGPT-4 and Azure AI Search. The solution significantly improved the efficiency, quality, and consistency of proposals, positioning the client as a leader in technological innovation within the medical and legal industries.
 
 
 ## Media & Links:
